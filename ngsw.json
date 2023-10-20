@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1697772446414,
+  "timestamp": 1697773064687,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,6 +13,7 @@
       "urls": [
         "/82.915e1b2cb7dff9f7.js",
         "/favicon.ico",
+        "/index.html",
         "/main.2ec6e184e2bff6b0.js",
         "/manifest.webmanifest",
         "/polyfills.4e1de369d2598716.js",
@@ -3022,6 +3023,7 @@
     "/assets/img/youtube-reviews/youtube-review-5.png": "69a31b120df57cf7b75a707dbcc1af41f5a87625",
     "/assets/img/youtube-reviews/youtube-review.png": "92f5001b63e165acb6a23ca43dcec0732700d8d5",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "bf052eb3f95056445b21709a115991289a4cec10",
     "/main.2ec6e184e2bff6b0.js": "7b7b5d684b34c165a2431599f1afaf94ed427c2a",
     "/manifest.webmanifest": "23f0dd9f1e5be7f6547870743bac07ee03e0e0c3",
     "/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
